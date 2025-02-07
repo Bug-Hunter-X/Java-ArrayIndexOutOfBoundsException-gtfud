@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating an ArrayIndexOutOfBoundsException. The bug.java file shows the erroneous code that causes this exception.  The bugSolution.java file presents a corrected version.
